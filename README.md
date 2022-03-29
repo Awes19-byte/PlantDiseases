@@ -1,3 +1,3 @@
 # FruitDiseases
 ## Detect Fruit Diseases
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/Awes19-byte/PlantDiseases/blob/main/fruit%20diseases.png)
